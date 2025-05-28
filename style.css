@@ -1,0 +1,33 @@
+body {
+    font-size: 25px;
+    text-align: center;
+}
+
+#titulo {
+    font-size: 50px;
+    color: rgb(224, 176, 15);
+    background-image: url(img/Logo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    background-position: center;
+    
+}
+
+p.info {
+    color: black;
+}
+
+p.descripcion {
+    color: grey;
+}
+
+p.resaltada {
+    color: red;
+    border-style: groove;
+    border-color: gray;
+    border-radius: 5spx;
+    opacity: .5;
+    border-radius: 2;
+}
+
